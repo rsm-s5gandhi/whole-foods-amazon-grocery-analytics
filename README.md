@@ -6,7 +6,7 @@ Market business performance post-Amazon acquisition (2019–2024).
 
 ## Live Dashboard
 <img width="2440" height="2848" alt="Dashboard 1-5" src="https://github.com/user-attachments/assets/570ce3d2-078c-4a58-b9eb-9f52e89cfac5" />
-[View on Tableau Public](https://public.tableau.com/views/Book1_17765776011110/Dashboard1)
+[![View Dashboard](https://img.shields.io/badge/Tableau-View%20Dashboard-blue)](https://public.tableau.com/app/profile/sakshi.gandhi5071/viz/Book1_17765776011110/Dashboard1)
 
 ## Overview
 Built using real data from Amazon Annual Reports and SEC filings 
