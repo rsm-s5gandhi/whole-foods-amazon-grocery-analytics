@@ -1,0 +1,41 @@
+State,State_Code,Store_Count,Revenue_Per_Store_M,Avg_Store_Size_Sqft,Prime_Penetration_Pct,YoY_Growth_Pct
+California,CA,80,22.4,42000,68,3.2
+Texas,TX,36,18.6,38000,55,4.1
+New York,NY,35,24.1,38500,72,2.8
+Florida,FL,34,19.2,39000,61,3.8
+Massachusetts,MA,27,23.8,40000,74,2.1
+Illinois,IL,20,20.1,39500,63,2.5
+Washington,WA,17,21.3,41000,69,3.1
+Colorado,CO,16,20.8,40500,66,3.6
+Georgia,GA,14,17.9,38000,57,4.2
+Virginia,VA,14,19.4,39000,62,2.9
+New Jersey,NJ,13,22.6,39500,70,2.4
+Pennsylvania,PA,12,18.8,38500,59,2.7
+Maryland,MD,12,20.2,39000,64,2.6
+Michigan,MI,11,17.4,37500,54,3.1
+North Carolina,NC,11,17.1,37000,52,4.5
+Arizona,AZ,10,18.3,38000,56,4.8
+Ohio,OH,9,16.8,37000,51,2.9
+Tennessee,TN,8,16.2,37000,49,4.1
+Missouri,MO,7,16.5,37500,50,3.2
+Oregon,OR,7,20.6,40000,67,2.8
+Minnesota,MN,7,18.1,38000,57,2.6
+Connecticut,CT,6,22.9,39500,71,1.9
+Indiana,IN,5,15.8,36500,47,2.8
+Wisconsin,WI,5,16.4,37000,49,2.5
+Nevada,NV,5,17.8,37500,54,5.1
+South Carolina,SC,4,15.9,36500,48,4.3
+Louisiana,LA,4,15.6,36500,47,3.1
+Kansas,KS,4,15.4,36000,46,2.9
+Iowa,IA,3,14.8,36000,44,2.7
+New Mexico,NM,3,15.2,36000,45,3.4
+Utah,UT,3,17.6,37500,53,5.2
+Kentucky,KY,3,14.9,36000,44,2.8
+Alabama,AL,2,14.2,35500,42,3.6
+Nebraska,NE,2,14.6,36000,43,2.9
+Rhode Island,RI,2,21.4,39000,68,1.8
+New Hampshire,NH,2,20.8,38500,65,2.1
+Maine,ME,1,18.9,38000,60,2.3
+Vermont,VT,1,19.2,38000,61,2.0
+Idaho,ID,1,15.8,36500,47,4.1
+Montana,MT,1,14.4,35500,43,3.8
